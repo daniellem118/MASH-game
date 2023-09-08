@@ -1,8 +1,8 @@
 /* Body styling */
 body {
-  background: #354A21;
-  color: #37240c;
-  font-family: Jester, Arial;
+  background: #84ae5d;
+  color: #764694;
+  font-family: Edwardian, Arial;
   font-size: 30px;
   font-weight: 300;
   line-height: 1.65em;
@@ -14,8 +14,8 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 30px;
-  color: #29021A;
+  font-size: 40px;
+  color: #5a1d85;
   text-align: center;
 }
 
@@ -67,7 +67,7 @@ h1 {
   border-radius: 9px;
   color: #9E7BB3;
   font-size: 20px;
-  margin: 15px 4%;
+  margin: 35px 4%;
   outline: 0;
   padding: 16px 0;
   text-indent: 20px;
@@ -79,7 +79,7 @@ h1 {
 }
 
 .highlight {
-  font-size: 20px;
+  font-size: 30px;
   line-height: 24px;
   margin-left: 30px;
   opacity: .8;
