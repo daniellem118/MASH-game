@@ -1,7 +1,7 @@
 /* Body styling */
 body {
   background: #354A21;
-  color: #fff;
+  color: #37240c;
   font-family: Jester, Arial;
   font-size: 30px;
   font-weight: 300;
@@ -90,7 +90,7 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #fff;
+  background: #8b6248;
   border-radius: 6px;
   color: #003152;
   transition: 1s linear;
